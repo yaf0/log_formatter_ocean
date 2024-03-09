@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: log_formatter_ocean
+Version: 0.3
+Summary: log formatting utility
+Home-page: https://github.com/yaf0/log_formatter_ocean
+Author: ocean
+License: MIT
+Keywords: logging log formatting
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: requests
+Requires-Dist: numpy
+
+A simple log formatting utility for Python projects
