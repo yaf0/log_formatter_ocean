@@ -1,8 +1,0 @@
-LICENSE.txt
-README.md
-setup.py
-log_formatter_ocean.egg-info/PKG-INFO
-log_formatter_ocean.egg-info/SOURCES.txt
-log_formatter_ocean.egg-info/dependency_links.txt
-log_formatter_ocean.egg-info/requires.txt
-log_formatter_ocean.egg-info/top_level.txt
