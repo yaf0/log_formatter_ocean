@@ -1,2 +1,4 @@
 requests
 numpy
+log-formatter-oc
+huluwa-art
